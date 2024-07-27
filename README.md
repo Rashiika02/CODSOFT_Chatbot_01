@@ -1,6 +1,6 @@
 # CODSOFT_Chatbot_02
 Welcome to the Rule-Based Chatbot project! This simple chatbot is designed to interact with users using predefined responses based on specific keywords or phrases.
-OVERVIEW:
+<br>OVERVIEW:
 This project implements a rule-based chatbot using Python. The chatbot is capable of understanding a limited set of inputs and provides corresponding responses based on predefined rules.
 FEATURES :
 Greetings: Responds to common greetings like "hi" and "hello".
