@@ -4,11 +4,13 @@ Rule-Based Chatbot
 
 <br>Overview
 <br>This project implements a rule-based chatbot using Python. The chatbot is capable of understanding a limited set of inputs and provides corresponding responses based on predefined rules.
+
 <br>Features
 <br>Greetings: Responds to common greetings like "hi" and "hello".
 <br>Basic Information: Provides responses to queries about its name, age, and functionality.
 <br>Productivity Tips: Offers basic productivity advice.
 <br>Exit Command: Ends the conversation when the user types "bye".
+
 <br>Code
 <br>The main functionality is provided by the get_response function, which processes user input and returns appropriate responses based on predefined rules. The main function handles user interaction and integrates the chatbot responses.
 
@@ -20,6 +22,7 @@ Rule-Based Chatbot
 <br>main()
 <br>Starts a conversation with the user.
 <br>Continues to prompt for user input until the user types "bye".
+
 <br>Example
 <br>ChatBot: Hi! Type 'bye' to exit.
 <br>You: Hi
